@@ -37,7 +37,7 @@ make meaningful contributions
 SLTC Research University, 2021 – 2025
 
 ---
-## 📜 Projects
+## 🛠️ Projects
 
 - Deep Fake Detection System Using Deep Learning Algorithms - Final Year Project 
 - Web platform for university students to share notes 
@@ -69,7 +69,7 @@ Self-employed – 2022 to Present
 
 ---
 
-## 📜 EXTRA CURRICULAR ACTIVITIES
+## 🎯 EXTRA CURRICULAR ACTIVITIES
 
 - Editor - Satellite & IT Division (SEDS SLTC) – 2023 
 - Member of Design Team - InspiherTech 22' - IEEE WIE of SLTC – 2022
